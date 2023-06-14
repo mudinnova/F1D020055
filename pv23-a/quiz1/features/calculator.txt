@@ -1,0 +1,3 @@
+- fitur operasi dasar aritmatik
+- fitur persentase
+- fitur pengolahan memory
